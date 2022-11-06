@@ -2,7 +2,8 @@
   "name": "istanbulcayman",
   "homepage": "https://emrekabadayi7.github.io/TR-KY-time"
   "version": "0.1.0",
-  "private": false,
+  "private": true,
+  "deploy" : "npm run build&&gh-pages -d build"
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
