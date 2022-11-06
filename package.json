@@ -2,7 +2,7 @@
   "name": "istanbulcayman",
   "homepage": "https://emrekabadayi7.github.io/TR-KY-time"
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
